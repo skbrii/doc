@@ -1,5 +1,4 @@
-SKB RII active members list
-Список активных пользователей СКБ РИИ
+SKB RII active members list <br> Список активных пользователей СКБ РИИ
 ===
 
 | Name/Имя        | Github Username           | Status/Статус  |
