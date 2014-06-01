@@ -1,4 +1,4 @@
 doc
 ===
 
-SKB RII Projects documentation
+SKB RII NSTU Projects documentation
