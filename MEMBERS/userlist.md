@@ -7,8 +7,10 @@ SKB RII active members list
 | Дубков Илья | dubkov | кроме всего прочего может брать ключ |
 | Сагитов Юрий | ko10ok | Сделал кучу всего |
 | Михантьев Евгений | mehanik | Знает кучу всего |
+| Беклемишев Петр | PeterBeklemishev | Что-то порой делаю |
+| Грищенко Алексей | eggnot | Делает крутые штуки |
+| ... | ... | ... |
 
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
 Markdown | Less | Pretty
 --- | --- | ---
